@@ -1,4 +1,4 @@
-
+https://github.com/speedracer05/pandas-challenge/blob/main/HeroesOfPymoli/Resources/Fantasy.png
 # pandas-challenge
 The Pandas-challenge is a project that uses simulated purchase data from a fantasy video game -- Heros of Pymoli. The assignment is to analyze the data, and generate a report that breaks down the game's purchasing data into meaningful insights. The project involves using Jupiter notebook, pandas dataframes, and numpy to create a script to analyze the financial records of the fictious game. The following insights were identified:
 :
