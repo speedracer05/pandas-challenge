@@ -11,11 +11,16 @@ The Pandas-challenge is a project that uses simulated purchase data from a fanta
 * Most Popular Items
 * Most Profitable Items
 
-List and String variables were created. I then used two forLoops; one to calculate the change in revenue over the period, and using it to create a list; the other was used to find the greatest gain and decrease in revenue, as well as calculate the change in revenue.  
+The purchase_data csv was read into as a panda csv, and loaded in-memory. Next DataFrame objects were created and manipulated to customize and reshape the data sets for further analysis. Additionaly panda's cut function was utilized to separate data array elements into different bins to perform analysis on scalar data. The final information was formatted to provide a cleaner presentation. 
 
+## Key Takeaway
+* There were 576 active customers, driving $2.4K in Total revenue, comprised of 780 purchases, with an average Sales price of $3.05.
+* Sales occured across all 179 titles, but were concentrated 
+Gender Demographics
+* 
 ## Getting Started
 
-You will need to load the Python script main.py. into an editor. Visual Studio was used to create this script. A resource file named budget_data.csv was used to extract the data.
+You will need to load the Panda script, HeroesOfPymoli_starter.ipynb into Jupyter notebook, with "purchase_data.csv". 
 
 The following output will be printed to the terminal:
 Total Months: 86
