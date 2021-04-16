@@ -16,6 +16,7 @@ The purchase_data csv was read into as a panda csv, and loaded in-memory. Next D
 ## Key Takeaway
 * There were 576 active customers, driving $2.4K in Total revenue, comprised of 780 purchases, with an average Sales price of $3.05.
 * Sales occured across all 179 titles, but were concentrated 
+
 Gender Demographics
 * 
 ## Getting Started
