@@ -18,19 +18,20 @@ The purchase_data csv was read into as a panda csv, and loaded in-memory. Next D
 * Sales occured across all 179 titles, but were concentrated 
 
 Gender Demographics
+* Customer data shows a heavy slant towards male-customers, comprising 84%, while female-cstomers made up 14% of the user-base.
+* Males-buyers drive almost 83% of the revenue, but spend ~9% less than their female counterpart, $4.07 vs $4.47.
+Age Demographics
+* Further segmenation of buyers can be seen by age group. Young adults, 18-24 represent almost 50% of all users. As a group, they also represent the 2nd highest average retail revenue at $4.31. They should be defining the average retail revenue, which is $3.05 -- but they are not. Something else is at play. Further investigation needs to be conducted on the ASPs across the game portfolio
+* We should take a look at Marketing spend to concentrate more money at this user-segment.
+Top Spenders
+* We looked at the top 5 customers, in terms of Total Purchases. The spend of these customers was more than the average sales price
+Most Popular Items
+* Final Critic was by far our best seller in terms of unit count and revenue; 13 units driving $59.99 at an average sales price of $4.61
+* Nirvana was our 3rd best seller with 12 units, but at an average sales price of $4.90. This is 6% better than Final critic
 * 
 ## Getting Started
 
 You will need to load the Panda script, HeroesOfPymoli_starter.ipynb into Jupyter notebook, with "purchase_data.csv". 
-
-The following output will be printed to the terminal:
-Total Months: 86
-Total Revenue: $38382578
-Average Revenue Change: $6269
-Greatest Increase in Profit: Feb-2012 ($1926159) 
-Greatest Decrease in Profit: Sep-2013 ($-2196167)
-
-In addition a text file of the same output is written to a file named, "Report_PyBank.txt"
 
 ## Built With
 
